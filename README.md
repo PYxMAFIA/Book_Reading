@@ -110,6 +110,6 @@ You can replace it with any motivational text, story, or personal writing of you
 ## 📬 Connect with Me
 
 I'm always open to feedback or collaborations!  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) 
+🔗 [LinkedIn](https://linkedin.com/in/PYxMAFIA) 
 
 ---
