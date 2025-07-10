@@ -1,9 +1,3 @@
-Absolutely, Piyush! Here's the **full copy-paste-ready `README.md`** file — everything is included in one place so you can just drop it into your GitHub repo.
-
----
-
-### ✅ Full `README.md` Content:
-
 ```markdown
 # 🎧 Terminal Book Reader – Python Text-to-Speech Narrator
 
@@ -119,17 +113,3 @@ I'm always open to feedback or collaborations!
 🔗 [LinkedIn](https://linkedin.com/in/your-profile) 
 
 ---
-
-## 📄 License
-
-This project is open-source and free to use under the MIT License.
-```
-
----
-
-### 📝 To-Do:
-- Replace `your-username` and `your-profile` with your actual GitHub and LinkedIn URLs.
-- Add a demo GIF if you have one (`demo.gif`).
-- Rename `reader.py` to whatever your Python script is named, if different.
-
-Let me know if you'd like help generating a GIF or hosting a live demo video for your LinkedIn post too!
